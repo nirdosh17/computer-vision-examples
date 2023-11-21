@@ -42,6 +42,9 @@ Commands:
 
 - Run live detection from webcam: `make live-detect`
 
+  ![output](https://github.com/nirdosh17/computer-vision-examples/assets/5920689/e99bd7cb-91f9-4148-b0db-f8f8c275c748)
+
+
 **[Dlib](http://dlib.net)**:
 
 
